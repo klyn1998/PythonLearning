@@ -1,0 +1,2 @@
+HTTP协议：HyperText Transfer Protocol 超文本传输协议
+协议的作用就是用来传输超文本 HTML

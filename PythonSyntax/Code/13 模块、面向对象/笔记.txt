@@ -1,0 +1,11 @@
+pip3 install <package_name>  下载
+pip3 uninstall <package_name>  卸载
+pip3 list 用来列出当前环境安装的模块名和版本号
+pip3 freeze 用来列出当前环境安装的模块名和版本号
+
+临时修改，只修改这一个文件的下载路径
+pip install <package_name> -i <url>  从指定的地址下载包
+
+pip3 freeze > file_name 将安装的模块名和版本号重定向输出到指定的文件
+pip3 install -r file_name 读取文件里模块名和版本号并安装
+
